@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Munkhbileg0711
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning python, R and C#
+- 🌱 I’m experienced Python developer
+- 🌱 I’m currently making Django Machine learning applications.
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning projects
 - 📫 How to reach me 
 
